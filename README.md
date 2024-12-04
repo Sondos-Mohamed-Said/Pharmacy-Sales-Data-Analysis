@@ -57,3 +57,7 @@ The dataset contains the following information:
 
 This project showcases the potential of Excel in analyzing pharmacy data efficiently and creating actionable insights through interactive visualizations. If you have any feedback or suggestions, feel free to share! 😊
 
+
+![Dashboard Visualization](dashboard_visual.png)
+
+
